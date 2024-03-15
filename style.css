@@ -1,0 +1,43 @@
+h1 {
+  color: rgb(148, 127, 255);
+}
+h2 {
+  color: blue;
+}
+h3 {
+  color: rgb(151, 6, 6);
+}
+body {
+  font-family: "Protest Riot", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  background-color: rgb(244, 159, 13);
+}
+
+#khazen {
+  background-color: blueviolet;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
